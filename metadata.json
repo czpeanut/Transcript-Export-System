@@ -1,0 +1,5 @@
+{
+  "name": "學力檢測成績單產生器",
+  "description": "根據學生的各科答題狀況，產生包含五力指標與知識向度分析的專屬成績單。",
+  "requestFramePermissions": []
+}
